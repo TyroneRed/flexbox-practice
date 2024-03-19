@@ -113,6 +113,7 @@ button,
     justify-content: center;
     gap: 40px;
     margin: 20px 40px 100px 40px;
+    flex-wrap: wrap;
 }
 
 .info-img {
